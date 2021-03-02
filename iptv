@@ -1,0 +1,220 @@
+#EXTM3U
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="CANAIS BR",GLOBO
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=3Z4Oxe6TRGmxSLkAHKcbUw&3U1G7qaTxrPbalZnEx=1614490601
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png" group-title="CANAIS BR",SBT SP
+https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/chunklist_w579200668.m3u8
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="CANAIS BR",BAND SP
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="CANAIS BR",RECORD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+ 
+ 
+ 
+ 
+ 
+#EXTINF: 0, REDE BRASIL
+    #EXTVLCOPT: cache da rede = 1000
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2138788303.m3u8
+ 
+ 
+ 
+ 
+ 
+#EXTINF: 0, RECORD NEWS
+    #EXTVLCOPT: cache da rede = 1000
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1423941531.m3u8
+ 
+ 
+ 
+#EXTINF: 0, GAZETA
+    #EXTVLCOPT: cache da rede = 1000
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w740242980.m3u8
+ 
+ 
+ 
+ 
+#EXTINF: 0, TV CULTURA
+    #EXTVLCOPT: cache da rede = 1000  
+https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FmdhBF4Fu8g)r(fVR9ug)a(qvbQZQ)p(d(2xc)k(q8U)m(wm7hr4CkXg4oCMspkU67zw)n(a(g9rlkg)s(lxE)'a(VpyH3A)s(_xU)))s(s(uxg)b(2qf_s35jvCJe4lvjVjolvUonV5Ussdu8MPRjGIQ_CiKWAnHG9lPmSUfsQxA1M_mm20MD8wwIkO-v7tR22A)'s(TRc)b(34ViaBe0mE9ktGSKp4YSZ0ovolDu4P7O85jajnXR0oYsfOI3RFcOYEqvjSdhZa96k3XOzg7duS2T1tIi74HgXS2XHSXPX-ccs7_U-XVZ)'s(ILU)b(18RiWFAk))m(0))/1_index.m3u8
+ 
+ 
+ 
+#EXTINF: 0,SERIES 24 H
+    #EXTVLCOPT: cache da rede = 1000
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist.m3u8
+ 
+ 
+#EXTINF: 0, SERIES 24H 2
+    #EXTVLCOPT: cache da rede = 1000
+http://video01.kshost.com.br/jorge1313/jorge1313/chunklist_w281236319.m3u8
+ 
+ 
+ 
+#EXTINF: 0, RETRO CARTOON 2
+    #EXTVLCOPT: cache da rede = 1000
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1510390533.m3u8
+ 
+#EXTINF: 0, FILMES 24 H
+    #EXTVLCOPT: cache da rede = 1000
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w755531046.m3u8
+ 
+#EXTINF: 0, GOSPEL CARTOON
+    #EXTVLCOPT: cache da rede = 1000
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w679376339.m3u8
+ 
+ 
+ 
+ 
+#EXTINF: 0, FILMES GOSPEL 24H
+    #EXTVLCOPT: cache da rede = 1000
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1341791849.m3u8
+ 
+ 
+ 
+ 
+#EXTINF: 0, TV EVANGELIZAR
+    #EXTVLCOPT: cache da rede = 1000
+https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w1234346877.m3u8
+ 
+ 
+#EXTINF: 0, DESENHOS KIDS
+    #EXTVLCOPT: cache da rede = 1000
+http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
+ 
+ 
+#EXTINF: 0, TV APARECIDA
+    #EXTVLCOPT: cache da rede = 1000
+https://caikron.com.br:8082/padroeira/padroeira/cktv/teste_480p/chunks.m3u8?nimblesessionid=80175399
+ 
+ 
+#EXTINF: 0, RED BULL CHANNEL
+    #EXTVLCOPT: cache da rede = 1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+ 
+ 
+ 
+#EXTINF: 0, SPACE
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/space.m3u8?mu3zAQc9HC3GbwJq=jV5QEe0aZfhLUMSpu4_qOg&3U1G7qaTxrPbalZnEx=1614488826
+ 
+ 
+ 
+ 
+#EXTINF: 0, TNT
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=Cb1C-JtBl9ypMP9hpLX82A&3U1G7qaTxrPbalZnEx=1614488901
+ 
+#EXTINF: 0, TELECINE PIPOCA
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/telecinepipoca.m3u8?mu3zAQc9HC3GbwJq=ALH1LinUl1YzJ8mnIuhvoQ&3U1G7qaTxrPbalZnEx=1614488951
+ 
+#EXTINF: 0, Telecine Action
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/telecineaction.m3u8?mu3zAQc9HC3GbwJq=ZpWqYAOUUdkgiA3ebvpkhA&3U1G7qaTxrPbalZnEx=1614489011
+ 
+#EXTINF: 0, HBO
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbo.m3u8?mu3zAQc9HC3GbwJq=FXk8xDG7S7HnpSj4941T8A&3U1G7qaTxrPbalZnEx=1614489061
+ 
+ 
+ 
+#EXTINF: 0, TOONCAST
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tooncast.m3u8?mu3zAQc9HC3GbwJq=bKu-8vOaeLjURkV7y2xBKg&3U1G7qaTxrPbalZnEx=1614489220
+ 
+ 
+ 
+ 
+#EXTINF: 0, NICKODEON
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=_107MkvEYY3DkIgwct46nA&3U1G7qaTxrPbalZnEx=1614489273
+ 
+ 
+#EXTINF: 0, NICK JR
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nickjr.m3u8?mu3zAQc9HC3GbwJq=RDwkxnr32Ea_qK-ZJst0ww&3U1G7qaTxrPbalZnEx=1614489311
+ 
+#EXTINF: 0, NATGEOKIDS
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeokids.m3u8?mu3zAQc9HC3GbwJq=EYsRQaO7mG-CCHSD9Oo_yg&3U1G7qaTxrPbalZnEx=1614489347
+ 
+ 
+#EXTINF: 0, DISNEY XD
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disneyxd.m3u8?mu3zAQc9HC3GbwJq=XJ0O1f3987tvSTklhAF9TA&3U1G7qaTxrPbalZnEx=1614489383
+ 
+ 
+#EXTINF: 0, DISNEY JR
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disneyjunior.m3u8?mu3zAQc9HC3GbwJq=vqHQXvKuks_PyblDYuMg3A&3U1G7qaTxrPbalZnEx=1614489427
+ 
+ 
+#EXTINF: 0, DISNEY CHANNEL
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disney.m3u8?mu3zAQc9HC3GbwJq=rda7EGwMYsVbjaGkYhKwgg&3U1G7qaTxrPbalZnEx=1614489465
+ 
+ 
+#EXTINF: 0, BOOMERANG
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=NfAShCtTeyLkz6lrV2hORQ&3U1G7qaTxrPbalZnEx=1614489529
+ 
+ 
+ 
+ 
+#EXTINF: 0, PLANETA ANIMAL
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=esMkeKwlRdvKYpXf7oQNIw&3U1G7qaTxrPbalZnEx=1614489999
+ 
+ 
+#EXTINF: 0,DISCOVRY CHANNEL
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=pHMrqIK1OJJnAGbOiKBaIw&3U1G7qaTxrPbalZnEx=1614490054
+ 
+ 
+#EXTINF: 0, HISTÓRY
+    #EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history.m3u8?mu3zAQc9HC3GbwJq=-m9uZS5CPJfjRPdAclXbDg&3U1G7qaTxrPbalZnEx=1614490094
+ 
+#EXTINF: 0, PREMIERE CLUBS
+#EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=m5MgRii-RYa8OeoLXM6R3Q&3U1G7qaTxrPbalZnEx=1614490157
+ 
+#EXTINF: 0, SPORTV
+#EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sportv1.m3u8?mu3zAQc9HC3GbwJq=3yeJbVduRsc9vxoIhTp8hg&3U1G7qaTxrPbalZnEx=1614490199
+ 
+#EXTINF: 0, FOX SPORT
+#EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxsports1.m3u8?mu3zAQc9HC3GbwJq=292J3R6pNIdiqOojv_kk_g&3U1G7qaTxrPbalZnEx=1614490236
+ 
+#EXTINF: 0, ESPN
+#EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/espn.m3u8?mu3zAQc9HC3GbwJq=CRxIPW18FlOOQ9DoCck6mQ&3U1G7qaTxrPbalZnEx=1614490279
+ 
+#EXTINF: 0, ESPN BRASIL
+#EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/espnbrasil.m3u8?mu3zAQc9HC3GbwJq=XHbxfLC4Emaa0iW5TdV3NA&3U1G7qaTxrPbalZnEx=1614490298
+ 
+ 
+#EXTINF: 0, Combate
+#EXTVLCOPT: cache da rede = 1000
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=x89_8Mfp9NSUw9Cuj67aMQ&3U1G7qaTxrPbalZnEx=1614490352
