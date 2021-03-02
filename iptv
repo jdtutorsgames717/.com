@@ -4,7 +4,7 @@
  
  
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO  " tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="CANAIS BR",GLOBO
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=3Z4Oxe6TRGmxSLkAHKcbUw&3U1G7qaTxrPbalZnEx=1614490601
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bobonordeste.m3u8?mu3zAQc9HC3GbwJq=Qf_RZkwt4igEcUfUhpWRtA&3U1G7qaTxrPbalZnEx=1614704131
  
  
  
@@ -114,68 +114,68 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
  
 #EXTINF: 0, SPACE
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/space.m3u8?mu3zAQc9HC3GbwJq=jV5QEe0aZfhLUMSpu4_qOg&3U1G7qaTxrPbalZnEx=1614488826
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/space.m3u8?mu3zAQc9HC3GbwJq=xs2h0dBOfd5kGOiPujyp1Q&3U1G7qaTxrPbalZnEx=1614704216
  
  
  
  
 #EXTINF: 0, TNT
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=Cb1C-JtBl9ypMP9hpLX82A&3U1G7qaTxrPbalZnEx=1614488901
- 
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=n-nsgSTDkrxMLF8oRengFQ&3U1G7qaTxrPbalZnEx=1614704263
+
 #EXTINF: 0, TELECINE PIPOCA
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/telecinepipoca.m3u8?mu3zAQc9HC3GbwJq=ALH1LinUl1YzJ8mnIuhvoQ&3U1G7qaTxrPbalZnEx=1614488951
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/telecinepipoca.m3u8?mu3zAQc9HC3GbwJq=Au8uBrbK-jL86S3ACD6KkA&3U1G7qaTxrPbalZnEx=1614704317
  
 #EXTINF: 0, Telecine Action
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/telecineaction.m3u8?mu3zAQc9HC3GbwJq=ZpWqYAOUUdkgiA3ebvpkhA&3U1G7qaTxrPbalZnEx=1614489011
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/telecineaction.m3u8?mu3zAQc9HC3GbwJq=Z5A8XNR3dCQNT6tuCMZmMg&3U1G7qaTxrPbalZnEx=1614704383
  
 #EXTINF: 0, HBO
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbo.m3u8?mu3zAQc9HC3GbwJq=FXk8xDG7S7HnpSj4941T8A&3U1G7qaTxrPbalZnEx=1614489061
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbo.m3u8?mu3zAQc9HC3GbwJq=1lxXbEQhp_oqHfPUZjq5vg&3U1G7qaTxrPbalZnEx=1614704432
  
  
  
 #EXTINF: 0, TOONCAST
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tooncast.m3u8?mu3zAQc9HC3GbwJq=bKu-8vOaeLjURkV7y2xBKg&3U1G7qaTxrPbalZnEx=1614489220
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tooncast.m3u8?mu3zAQc9HC3GbwJq=PzYQ3qByutYFQ_FIcQ1Osw&3U1G7qaTxrPbalZnEx=1614704479
  
  
  
  
 #EXTINF: 0, NICKODEON
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=_107MkvEYY3DkIgwct46nA&3U1G7qaTxrPbalZnEx=1614489273
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=h73nLENO4jRk80xseg8EXw&3U1G7qaTxrPbalZnEx=1614704584
  
  
 #EXTINF: 0, NICK JR
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nickjr.m3u8?mu3zAQc9HC3GbwJq=RDwkxnr32Ea_qK-ZJst0ww&3U1G7qaTxrPbalZnEx=1614489311
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nickjr.m3u8?mu3zAQc9HC3GbwJq=1Wr2EV2_-aA2rXtpzHlTrg&3U1G7qaTxrPbalZnEx=1614704624
  
 #EXTINF: 0, NATGEOKIDS
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeokids.m3u8?mu3zAQc9HC3GbwJq=EYsRQaO7mG-CCHSD9Oo_yg&3U1G7qaTxrPbalZnEx=1614489347
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeokids.m3u8?mu3zAQc9HC3GbwJq=zPEa4E9rbiX8LTSwAqcZmw&3U1G7qaTxrPbalZnEx=1614704675
  
  
 #EXTINF: 0, DISNEY XD
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disneyxd.m3u8?mu3zAQc9HC3GbwJq=XJ0O1f3987tvSTklhAF9TA&3U1G7qaTxrPbalZnEx=1614489383
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disneyxd.m3u8?mu3zAQc9HC3GbwJq=6G_ypOoK7sTvQuoJhtt5Qw&3U1G7qaTxrPbalZnEx=1614704711
  
  
 #EXTINF: 0, DISNEY JR
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disneyjunior.m3u8?mu3zAQc9HC3GbwJq=vqHQXvKuks_PyblDYuMg3A&3U1G7qaTxrPbalZnEx=1614489427
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disneyjunior.m3u8?mu3zAQc9HC3GbwJq=Xy1YP_yqInlBWfsw36FwHQ&3U1G7qaTxrPbalZnEx=1614704745
  
  
 #EXTINF: 0, DISNEY CHANNEL
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disney.m3u8?mu3zAQc9HC3GbwJq=rda7EGwMYsVbjaGkYhKwgg&3U1G7qaTxrPbalZnEx=1614489465
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disney.m3u8?mu3zAQc9HC3GbwJq=cL9_7wLubfzMWl-Ho1AQQw&3U1G7qaTxrPbalZnEx=1614704781
  
  
 #EXTINF: 0, BOOMERANG
     #EXTVLCOPT: cache da rede = 1000
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=NfAShCtTeyLkz6lrV2hORQ&3U1G7qaTxrPbalZnEx=1614489529
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=dNZLF6_ojP239S-JckzRJg&3U1G7qaTxrPbalZnEx=1614704820
  
  
  
