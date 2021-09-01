@@ -12,16 +12,32 @@ http://168.205.87.198:8555/live/cesar/123456/78.m3u8
 #EXTINF:0,band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
-#EXTINF:0,record
+#EXTINF:0,recor d
 http://168.205.87.198:8555/live/cesar/123456/96.m3u8
 #EXTINF:0,sbt
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b21
-
-6000_sleng.m3u8
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 
 #EXTINF:0,globo
-http://live.video.globo.com/h/14021966827590123456789157460275998
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-76543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-
+#EXTINF:0,telecine cult
+http://212.224.98.213:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8?token=RED_yi01rozr7mIsY7ODl1Bs6A%3D%3D%2C1626165557.0229961702
 
-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:0,boomerang
+http://212.224.98.211:2200/BR/Boomerang_HD-br/tracks-v1a1/mono.m3u8?token=RED_Boyj51WGUL5HCNI66fp5IQ%3D%3D%2C1626165743.0229961702
+
+#EXTINF:0,discovery kids
+http://212.224.98.204:2200/BR/Discovery_Ks_HD-br/tracks-v1a1/mono.m3u8?token=RED_QTCnRXWgBIGT2JPgSxpt7w%3D%3D%2C1626165789.0229961702
+
+#EXTINF:0,comedy central
+http://212.224.98.208:2200/BR/Comedy_Central_HD-br/tracks-v1a1/mono.m3u8?token=RED_rVRnXAQE-gALygqiw5KPOQ%3D%3D%2C1626165831.0229961702
+
+#EXTINF:0,viva
+http://185.180.15.17:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=RED_HVO3J9fn2vErh5qLu1rEQQ%3D%3D%2C1626165896.0229961702
+
+#EXTINF:0,multishow
+http://212.224.98.211:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8?token=RED_12QSWOSkMfq0xyjP8tZecg%3D%3D%2C1626165940.0229961702
+
+
+#EXTINF:0,tonquest
+http://185.180.15.15:2200/BR/Tooncast-br/tracks-v1/mono.m3u8?token=RED_we-VCV_0xqEQT8uTEAdZpA%3D%3D%2C1626166003.0229961702
