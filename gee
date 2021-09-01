@@ -1,4 +1,27 @@
- #EXTM3U
-#EXTINF:-1 ,JD TUTORS IPTV
-#EXTINF:-1 ,teste
-https://m3u9.ml/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=7Uns_6Dpmt475Fw3IDoXMQ&3U1G7qaTxrPbalZnEx=1630538734
+#EXTM3U
+
+#EXTINF:0,animal planet
+http://168.205.87.198:8555/live/cesar/123456/18.m3u8
+
+#EXTINF:0,discovery channel
+http://168.205.87.198:8555/live/cesar/123456/33.m3u8
+
+#EXTINF:0,Nat Geo
+http://168.205.87.198:8555/live/cesar/123456/78.m3u8
+
+#EXTINF:0,band
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
+
+#EXTINF:0,record
+http://168.205.87.198:8555/live/cesar/123456/96.m3u8
+#EXTINF:0,sbt
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b21
+
+6000_sleng.m3u8
+
+#EXTINF:0,globo
+http://live.video.globo.com/h/14021966827590123456789157460275998
+
+76543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-
+
+rj/hls-globo-rj_2359/playlist.m3u8
