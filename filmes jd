@@ -1,0 +1,26 @@
+# EXTM3U
+
+açao
+ 
+#EXTINF: 0, The Protégé
+#EXTVLCOPT: network-caching = 1000
+https://vod.netcine.io/storage.bunnycdn.com/html/content/conteudolb4/filmes2021/PROTEGE2021LEG-BAIXO.mp4?md5=loNhKhz62kXIc1au4tcxuw&expires=1630557567
+
+#EXTINF: 0,Ascensão do Cisne Negro
+#EXTVLCOPT: network-caching = 1000
+https://vod.netcine.io/storage.bunnycdn.com/html/content/conteudolb4/filmes2021/ASCENSAODOCISNENEGRODUB-BAIXO.mp4?md5=Q_jjQQa6yphXk1NaM_9Phg&expires=1630557640
+
+ 
+#EXTINF: 0,Habit
+#EXTVLCOPT: network-caching = 1000
+https://vod.netcine.io/storage.bunnycdn.com/html/content/conteudolb4/filmes2021/HABITLEG-BAIXO.mp4?md5=D3TeHgdgXUVRvqgHGIbifA&expires=1630557720
+
+ 
+#EXTINF: 0, justiça em familia
+#EXTVLCOPT: network-caching = 1000
+https://vod.netcine.io/storage.bunnycdn.com/html/content/conteudolb4/filmes2021/JUSTICAFAMILIA2021DUB-BAIXO.mp4?md5=-NGsfI1JGTbBm_IqA03ULw&expires=1630557810
+
+ 
+#EXTINF: 0, Infinito
+#EXTVLCOPT: network-caching = 1000
+https://vod.netcine.io/storage.bunnycdn.com/html/content/conteudolb4/filmes2021/INFINITODUB-BAIXO.mp4?md5=HdijhH9422BiZZ2t3j0PUw&expires=1630557873
