@@ -12,32 +12,177 @@ http://168.205.87.198:8555/live/cesar/123456/78.m3u8
 #EXTINF:0,band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
-#EXTINF:0,recor d
+#EXTINF:0,record
 http://168.205.87.198:8555/live/cesar/123456/96.m3u8
+
 #EXTINF:0,sbt
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+http://168.205.87.198:8555/live/cesar/123456/104.m3u8
 
 #EXTINF:0,globo
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+http://168.205.87.198:8555/live/cesar/123456/70.m3u8
 
-#EXTINF:0,telecine cult
-http://212.224.98.213:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8?token=RED_yi01rozr7mIsY7ODl1Bs6A%3D%3D%2C1626165557.0229961702
+#EXTINF:0,espn2
+http://168.205.87.198:8555/live/cesar/123456/49.m3u8
 
 #EXTINF:0,boomerang
 http://212.224.98.211:2200/BR/Boomerang_HD-br/tracks-v1a1/mono.m3u8?token=RED_Boyj51WGUL5HCNI66fp5IQ%3D%3D%2C1626165743.0229961702
 
+#EXTINF:0,espn brasil
+http://168.205.87.198:8555/live/cesar/123456/50.m3u8
+
+#EXTINF:0,espn estra
+http://168.205.87.198:8555/live/cesar/123456/51.m3u8
+
+#EXTINF:0,espn
+http://168.205.87.198:8555/live/cesar/123456/60.m3u8
+
+#EXTINF:0,canal do boi
+http://168.205.87.198:8555/live/cesar/123456/10.m3u8
+
+#EXTINF:0,cançao nova
+http://168.205.87.198:8555/live/cesar/123456/25.m3u8
+
+#EXTINF:0,carton network
+http://168.205.87.198:8555/live/cesar/123456/26.m3u8
+
+
+#EXTINF:0,class hits
+http://168.205.87.198:8555/live/cesar/123456/27.m3u8
+
+
+#EXTINF:0,tv senado
+http://168.205.87.198:8555/live/cesar/123456/28.m3u8
+
+#EXTINF:0,cult
+http://168.205.87.198:8555/live/cesar/123456/30.m3u8
+
+#EXTINF:0,cultura
+http://168.205.87.198:8555/live/cesar/123456/32.m3u8
+
+#EXTINF:0,discovery id
+http://168.205.87.198:8555/live/cesar/123456/36.m3u8
+
 #EXTINF:0,discovery kids
-http://212.224.98.204:2200/BR/Discovery_Ks_HD-br/tracks-v1a1/mono.m3u8?token=RED_QTCnRXWgBIGT2JPgSxpt7w%3D%3D%2C1626165789.0229961702
+http://168.205.87.198:8555/live/cesar/123456/37.m3u8
 
-#EXTINF:0,comedy central
-http://212.224.98.208:2200/BR/Comedy_Central_HD-br/tracks-v1a1/mono.m3u8?token=RED_rVRnXAQE-gALygqiw5KPOQ%3D%3D%2C1626165831.0229961702
+#EXTINF:0,tlc
+http://168.205.87.198:8555/live/cesar/123456/40.m3u8
 
-#EXTINF:0,viva
-http://185.180.15.17:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=RED_HVO3J9fn2vErh5qLu1rEQQ%3D%3D%2C1626165896.0229961702
+#EXTINF:0,disney channel
+http://168.205.87.198:8555/live/cesar/123456/45.m3u8
 
-#EXTINF:0,multishow
-http://212.224.98.211:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8?token=RED_12QSWOSkMfq0xyjP8tZecg%3D%3D%2C1626165940.0229961702
+#EXTINF:0,disney junior
+http://168.205.87.198:8555/live/cesar/123456/46.m3u8
+
+#EXTINF:0,disney xd
+http://168.205.87.198:8555/live/cesar/123456/47.m3u8
+
+#EXTINF:0,espn2
+http://168.205.87.198:8555/live/cesar/123456/49.m3u8
+
+#EXTINF:0,fich tv
+http://168.205.87.198:8555/live/cesar/123456/62.m3u8
 
 
-#EXTINF:0,tonquest
-http://185.180.15.15:2200/BR/Tooncast-br/tracks-v1/mono.m3u8?token=RED_we-VCV_0xqEQT8uTEAdZpA%3D%3D%2C1626166003.0229961702
+
+#EXTINF:0,star channel
+http://168.205.87.198:8555/live/cesar/123456/63.m3u8
+
+#EXTINF:0,fox sport
+http://168.205.87.198:8555/live/cesar/123456/65.m3u8
+
+#EXTINF:0,fox sport 2
+http://168.205.87.198:8555/live/cesar/123456/66.m3u8
+
+#EXTINF:0,futura
+http://168.205.87.198:8555/live/cesar/123456/67.m3u8
+
+#EXTINF:0,fx
+http://168.205.87.198:8555/live/cesar/123456/68.m3u8
+
+#EXTINF:0,gazeta
+http://168.205.87.198:8555/live/cesar/123456/69.m3u8
+
+
+#EXTINF:0,hits
+http://168.205.87.198:8555/live/cesar/123456/72.m3u8
+
+
+#EXTINF:0,hg tv
+http://168.205.87.198:8555/live/cesar/123456/71.m3u8
+
+#EXTINF:0,mtv
+http://168.205.87.198:8555/live/cesar/123456/76.m3u8
+
+#EXTINF:0,nick
+http://168.205.87.198:8555/live/cesar/123456/80.m3u8
+
+#EXTINF:0,ratinbum
+http://168.205.87.198:8555/live/cesar/123456/84.m3u8
+
+#EXTINF:0,record news
+http://168.205.87.198:8555/live/cesar/123456/97.m3u8
+
+#EXTINF:0,rede minas
+http://168.205.87.198:8555/live/cesar/123456/101.m3u8
+
+#EXTINF:0,rede vida
+http://168.205.87.198:8555/live/cesar/123456/103.m3u8
+
+
+#EXTINF:0,space
+http://168.205.87.198:8555/live/cesar/123456/110.m3u8
+
+#EXTINF:0,tcm
+http://168.205.87.198:8555/live/cesar/123456/112.m3u8
+
+#EXTINF:0,tnt sports
+http://168.205.87.198:8555/live/cesar/123456/116.m3u8
+
+#EXTINF:0,tnt series
+http://168.205.87.198:8555/live/cesar/123456/117.m3u8
+
+#EXTINF:0,tv aparecida
+http://168.205.87.198:8555/live/cesar/123456/131.m3u8
+
+
+#EXTINF:0,tv brasil
+http://168.205.87.198:8555/live/cesar/123456/134.m3u8
+
+#EXTINF:0,tv camara
+http://168.205.87.198:8555/live/cesar/123456/136.m3u8
+
+#EXTINF:0,tv camara
+http://168.205.87.198:8555/live/cesar/123456/138.m3u8
+
+#EXTINF:0,loading
+http://168.205.87.198:8555/live/cesar/123456/142.m3u8
+
+#EXTINF:0,map kids
+http://168.205.87.198:8555/live/cesar/123456/143.m3u8
+
+
+#EXTINF:0,cine brasil tv
+http://168.205.87.198:8555/live/cesar/123456/145.m3u8
+
+
+#EXTINF:0,rb tv
+http://168.205.87.198:8555/live/cesar/123456/147.m3u8
+
+#EXTINF:0,all sports
+http://168.205.87.198:8555/live/cesar/123456/148.m3u8
+
+#EXTINF:0,canal do boi
+http://168.205.87.198:8555/live/cesar/123456/151.m3u8
+
+#EXTINF:0,cine açao
+http://168.205.87.198:8555/live/cesar/123456/154.m3u8
+
+#EXTINF:0,cine comedia
+http://168.205.87.198:8555/live/cesar/123456/155.m3u8
+
+#EXTINF:0,cine ficçao
+http://168.205.87.198:8555/live/cesar/123456/156.m3u8
+
+#EXTINF:0,cine comedia
+http://168.205.87.198:8555/live/cesar/123456/157.m3u8
